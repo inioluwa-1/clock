@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.clock{
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 100%;
+    width: 300px;
+    padding: 297px;
+    margin: 0 auto;
+}
+.dot{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+}
+.numbera{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 40px;
+    right: 490px;
+}
+.numberb{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 135px;
+    right: 395px;
+}
+.numberc{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 245px;
+    right: 340px;
+}
+.numberd{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 355px;
+    right: 340px;
+}
+.numbere{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 465px;
+    right: 400px;
+}
+.numberf{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    bottom: 10px;
+}
+.numberg{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 465px;
+    left: 400px;
+}
+.numberh{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 355px;
+    left: 340px;
+}
+.numberi{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 245px;
+    left: 340px;
+}
+.numberj{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 135px;
+    left: 395px;
+}
+.numberk{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 40px;
+    left: 490px;
+}
+.numberl{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 10px;
+}
